@@ -1,0 +1,144 @@
+baseURL = "https://blog.harshankur.com/"
+languageCode = "en-us"
+title = "Harsh's Blog"
+theme = "hugo-PaperMod"
+
+paginate = 5
+enableRobotsTXT = false
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Harsh's Blog"
+description = "My personal digital space"
+keywords = [ "Blog", "Portfolio", "Harsh Ankur", "Developer", "Software", "React", "Angular", "NextJS", "Javascript", "Typescript", "Node.JS"]
+author = "Harsh Ankur"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "dark"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = false
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
+
+  [params.label]
+  text = "Harsh's Blog"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋🏼"
+  Content = """
+Welcome to my digital place!
+- My name is Harsh. I hail from Dhanbad 🇮🇳. I have lived in Tokyo 🇯🇵 for 5 years, and I have been living in Berlin 🇩🇪 since 2022. 
+- In this blog, I am going to dump my thoughts, my learnings, my experiences, and anything else I find useful to share with the 🌏.
+"""
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/y_so_harsh"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/harshankur"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/harshankur"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/y_so_harsh"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  # [params.editPost]
+  # URL = "https://github.com/harshankur/blog/content"
+  # Text = "Suggest Changes"
+  # appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "homepageurl"
+name = "Home Page"
+url = "https://harshankur.com"
+weight = 30
+
+[markup.highlight]
+noClasses = false
