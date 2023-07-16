@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on Harsh&#39;s Blog</title>
+    <link>https://blog.harshankur.com/tags/blog/</link>
+    <description>Recent content in blog on Harsh&#39;s Blog</description>
+    <image>
+      <title>Harsh&#39;s Blog</title>
+      <url>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 23:22:50 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up This Blog 💻</title>
+      <link>https://blog.harshankur.com/posts/settingupthisblog/</link>
+      <pubDate>Sun, 16 Jul 2023 23:22:50 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/settingupthisblog/</guid>
+      <description>Setting up this blog has been long in the running. I wanted a minimal design with not a lot of flashy UI stuff. Further, I did not want an overly complicated blog system.
+After a lot of investigation (and constantly saying NO to wordpress 😛), I landed upon Hugo to setup this blog. It was extremely easy to do it.
+I found the documentation of Hugo quite resourceful and the online community is always at your fingertips.</description>
+    </item>
+    
+    <item>
+      <title>Introduction 🙏🏼</title>
+      <link>https://blog.harshankur.com/posts/introduction/</link>
+      <pubDate>Sun, 16 Jul 2023 12:23:43 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/introduction/</guid>
+      <description>I am happy to have finally set up this blog, which I had been intending to for the last few months. The primary objective for me in setting up this blog is to have a place of my own to dump my thoughts, my learnings, my experiences, and anything else I find useful to share with the world. I am aware that only a few people will ever discover this blog, but I am glad to finally have one that is not on social media.</description>
+    </item>
+    
+  </channel>
+</rss>
