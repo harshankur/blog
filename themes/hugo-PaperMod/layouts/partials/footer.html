@@ -133,3 +133,9 @@
     });
 </script>
 {{- end }}
+
+<script>
+    // Registering views.
+    const deviceSize = window.outerWidth > 960 && window.outerHeight > 960 ? "large" : window.outerWidth > 540 && window.outerHeight > 540 ? "medium" : "small";
+    fetch(`https://viewcounterbackend.onrender.com/registerView?appId=blog&deviceSize=${deviceSize}`)
+</script>
