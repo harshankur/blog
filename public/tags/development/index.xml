@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>development on Harsh&#39;s Blog</title>
+    <link>https://blog.harshankur.com/tags/development/</link>
+    <description>Recent content in development on Harsh&#39;s Blog</description>
+    <image>
+      <title>Harsh&#39;s Blog</title>
+      <url>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 22:59:54 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code on remote servers with Visual Studio Code via SSH</title>
+      <link>https://blog.harshankur.com/posts/codeonremoteserversusingvisualstudiocodeviassh/</link>
+      <pubDate>Tue, 01 Aug 2023 22:59:54 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/codeonremoteserversusingvisualstudiocodeviassh/</guid>
+      <description>Introduction Have you ever struggled with debugging your code on remote servers? There are usually two issues associated with debugging on remote hosting.
+You are not well versed with terminal-based editors like Vim and Nano
+Coding locally, uploading to GitHub, downloading on remote server, and restarting servers with updating code is tiresome
+Well, I have the perfect way for you! You can connect your Visual Studio Code application to your remote server directly via SSH.</description>
+    </item>
+    
+  </channel>
+</rss>
