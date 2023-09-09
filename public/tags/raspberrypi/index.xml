@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Technology on Harsh&#39;s Blog</title>
-    <link>https://blog.harshankur.com/categories/technology/</link>
-    <description>Recent content in Technology on Harsh&#39;s Blog</description>
+    <title>raspberrypi on Harsh&#39;s Blog</title>
+    <link>https://blog.harshankur.com/tags/raspberrypi/</link>
+    <description>Recent content in raspberrypi on Harsh&#39;s Blog</description>
     <image>
       <title>Harsh&#39;s Blog</title>
       <url>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 12:02:07 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 12:02:07 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Setup View Counter on Raspberry Pi Zero W</title>
       <link>https://blog.harshankur.com/posts/howisetupmyviewcounter/</link>
@@ -19,17 +19,6 @@
       
       <guid>https://blog.harshankur.com/posts/howisetupmyviewcounter/</guid>
       <description>I like working on my own mini-projects in my free time. Some of them are libraries or extensions and others are websites. The libraries or extensions are distributed from their own package manager of browser web store which keep a track of all the downloads from across the world. It gets a little tricky for the websites if I do not want to inject a random script on my website that shows a hideously looking view counter from the 2000s.</description>
-    </item>
-    
-    <item>
-      <title>Setting Up This Blog 💻</title>
-      <link>https://blog.harshankur.com/posts/settingupthisblog/</link>
-      <pubDate>Sun, 16 Jul 2023 23:22:50 +0200</pubDate>
-      
-      <guid>https://blog.harshankur.com/posts/settingupthisblog/</guid>
-      <description>Setting up this blog has been long in the running. I wanted a minimal design with not a lot of flashy UI stuff. Further, I did not want an overly complicated blog system.
-After a lot of investigation (and constantly saying NO to wordpress 😛), I landed upon Hugo to setup this blog. It was extremely easy to do it.
-I found the documentation of Hugo quite resourceful and the online community is always at your fingertips.</description>
     </item>
     
   </channel>

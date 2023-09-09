@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2023 16:43:58 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 12:02:07 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Setup View Counter on Raspberry Pi Zero W</title>
+      <link>https://blog.harshankur.com/posts/howisetupmyviewcounter/</link>
+      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/howisetupmyviewcounter/</guid>
+      <description>I like working on my own mini-projects in my free time. Some of them are libraries or extensions and others are websites. The libraries or extensions are distributed from their own package manager of browser web store which keep a track of all the downloads from across the world. It gets a little tricky for the websites if I do not want to inject a random script on my website that shows a hideously looking view counter from the 2000s.</description>
+    </item>
+    
     <item>
       <title>The Curious Case of Undeclared Global Variables in Javascript</title>
       <link>https://blog.harshankur.com/posts/thecuriouscaseofundeclaredglobalvariablesinjavascript/</link>

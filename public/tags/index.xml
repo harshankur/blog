@@ -11,13 +11,40 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2023 16:43:58 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 12:02:07 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code</title>
+      <link>https://blog.harshankur.com/tags/code/</link>
+      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>development</title>
       <link>https://blog.harshankur.com/tags/development/</link>
-      <pubDate>Wed, 02 Aug 2023 16:43:58 +0200</pubDate>
+      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
       
       <guid>https://blog.harshankur.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://blog.harshankur.com/tags/programming/</link>
+      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://blog.harshankur.com/tags/raspberrypi/</link>
+      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/raspberrypi/</guid>
       <description></description>
     </item>
     
@@ -27,24 +54,6 @@
       <pubDate>Wed, 02 Aug 2023 16:43:58 +0200</pubDate>
       
       <guid>https://blog.harshankur.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://blog.harshankur.com/tags/programming/</link>
-      <pubDate>Wed, 02 Aug 2023 16:43:58 +0200</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://blog.harshankur.com/tags/code/</link>
-      <pubDate>Tue, 01 Aug 2023 22:59:54 +0200</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/code/</guid>
       <description></description>
     </item>
     
