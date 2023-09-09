@@ -162,3 +162,5 @@ I added a few validations for the type of allowed values for things that are bei
 You can go through the readme to understand how to setup the viewcounter backend.
 
 I am planning to add more things on the RaspberryPi to stress-test it a little. But handling a few api requests should be pretty easy for this device.
+
+![Picture of RaspberryPi](/raspberrypizerow.jpg "Raspberry Pi Zero W")
