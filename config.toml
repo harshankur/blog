@@ -40,6 +40,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+disqusShortName = "blog-k1h0aum73f"
 
   [params.assets]
   favicon = "<link / abs url>"
@@ -108,10 +109,10 @@ SiteVerificationTag = "XYZabc"
   hiddenInList = true
   hiddenInSingle = true
 
-  # [params.editPost]
-  # URL = "https://github.com/harshankur/blog/content"
-  # Text = "Suggest Changes"
-  # appendFilePath = true
+  [params.editPost]
+  URL = "https://github.com/harshankur/blog/tree/main/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
