@@ -43,9 +43,9 @@ tocopen = false
 disqusShortName = "blog-k1h0aum73f"
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
+  favicon = "/blogIcon.svg"
+  favicon16x16 = "/blogIcon.svg"
+  favicon32x32 = "/blogIcon.svg"
   apple_touch_icon = "<link / abs url>"
   safari_pinned_tab = "<link / abs url>"
 
