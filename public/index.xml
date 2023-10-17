@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 12:02:07 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 22:03:14 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You can never go back home again</title>
+      <link>https://blog.harshankur.com/posts/youcannevergobackhome/</link>
+      <pubDate>Tue, 17 Oct 2023 22:03:14 +0200</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/youcannevergobackhome/</guid>
+      <description>This particular feeling hits home to me quite often. We live in an ever changing world where progressing time is the only constant. We are often consumed in our fast moving life and before we know it, we have moved far ahead without appreciating the good things that we once had.
+I have never lived in one place for more than 5 years at a stretch except the place where I grew up, Kolkata, where I stayed for 6 years.</description>
+    </item>
+    
     <item>
       <title>How I Setup View Counter on Raspberry Pi Zero W</title>
       <link>https://blog.harshankur.com/posts/howisetupmyviewcounter/</link>

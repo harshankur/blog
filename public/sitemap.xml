@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.harshankur.com/categories/</loc>
-    <lastmod>2023-09-09T12:02:07+02:00</lastmod>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/categories/myself/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/philosophy/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/categories/philosophy/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/posts/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/posts/youcannevergobackhome/</loc>
+    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/tags/code/</loc>
     <lastmod>2023-09-09T12:02:07+02:00</lastmod>
@@ -11,13 +32,7 @@
     <loc>https://blog.harshankur.com/tags/development/</loc>
     <lastmod>2023-09-09T12:02:07+02:00</lastmod>
   </url><url>
-    <loc>https://blog.harshankur.com/</loc>
-    <lastmod>2023-09-09T12:02:07+02:00</lastmod>
-  </url><url>
     <loc>https://blog.harshankur.com/posts/howisetupmyviewcounter/</loc>
-    <lastmod>2023-09-09T12:02:07+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/posts/</loc>
     <lastmod>2023-09-09T12:02:07+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/tags/programming/</loc>
@@ -27,9 +42,6 @@
     <lastmod>2023-09-09T12:02:07+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/tags/raspberrypi/</loc>
-    <lastmod>2023-09-09T12:02:07+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/tags/</loc>
     <lastmod>2023-09-09T12:02:07+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/categories/technology/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2023-07-16T12:23:43+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/posts/introduction/</loc>
-    <lastmod>2023-07-16T12:23:43+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/categories/myself/</loc>
     <lastmod>2023-07-16T12:23:43+02:00</lastmod>
   </url>
 </urlset>
