@@ -26,7 +26,7 @@ I had gotten really attached to my home in Japan as it was the first house I had
 When I was leaving Japan last year, the only thing that made me shed a tear was moving out of that house. I have looked at that house multiple times since then on Google Maps Street Views only to find some other people living in it which was certainly obvious but kinda painful at some level.
 
 ## Universe is vast
-What gives me comfort is looking at my problems from the lens of the giant cosmos. I have the picture **The Pale Blue Dot** taken by the Voyager 1 spacecraft, hung at my office near my chair. It is the only thing that gives me solace as it reminds me that all my feelings are miniscule in front of this giant canvas full every life form we have ever known or will know before us and long after we are gone.
+What gives me comfort is looking at my problems from the lens of the giant cosmos. I have the picture **The Pale Blue Dot**, taken by the Voyager 1 spacecraft from 6 billion kms away when it was crossing our Solar System taken on 14th Feb 1990, hung at my office near my chair. It is the only thing that gives me solace as it reminds me that all my feelings are miniscule in front of this giant canvas full every life form we have ever known or will know before us and long after we are gone.
 
 ![Pale Blue Dot](/palebluedot.jpg "Pale Blue Dot")
 

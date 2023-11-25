@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automation on Harsh&#39;s Blog</title>
+    <link>https://blog.harshankur.com/categories/automation/</link>
+    <description>Recent content in Automation on Harsh&#39;s Blog</description>
+    <image>
+      <title>Harsh&#39;s Blog</title>
+      <url>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 23:36:34 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I use iOS Shortcuts</title>
+      <link>https://blog.harshankur.com/posts/howiuseiosshortcuts/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/howiuseiosshortcuts/</guid>
+      <description>What are iOS Shortcuts Shortcuts is a visual-scripting tool available on the Apple ecosystem which allows users to create macros for executing specific tasks on their device(s). These task sequences can be created by the user and shared online through iCloud. iOS Shortcuts can be a really powerful tool if it is used properly. It has some very advanced automation and scripting possibilities built into it and its best part is that it is available on a mobile device.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 22:03:14 +0200</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 23:36:34 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>automation</title>
+      <link>https://blog.harshankur.com/tags/automation/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://blog.harshankur.com/tags/development/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://blog.harshankur.com/tags/ios/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripting</title>
+      <link>https://blog.harshankur.com/tags/scripting/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcuts</title>
+      <link>https://blog.harshankur.com/tags/shortcuts/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/shortcuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://blog.harshankur.com/tags/technology/</link>
+      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>philosophy</title>
       <link>https://blog.harshankur.com/tags/philosophy/</link>
@@ -27,15 +81,6 @@
       <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
       
       <guid>https://blog.harshankur.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://blog.harshankur.com/tags/development/</link>
-      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/development/</guid>
       <description></description>
     </item>
     
