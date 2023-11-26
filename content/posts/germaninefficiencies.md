@@ -22,6 +22,7 @@ Germany has an age-old stereotype of being an efficient country. **German Effici
     * My wife had applied for the Deutschlandticket last month to be able to use it from November 1st. It has been 26 days and she has not yet received her card. The worst thing is that their offices do not have an ETA. Their physical office say that this is due to a malfunction at their printing company but the official customer care over telephone says that this is not true and the officer is lying and then asked us to get written proof of what the agents said. We have done that and we are now awaiting answers.
 4. *Health Care:*
     * It is extremely difficult to get an appointment at any specialist clinic that is covered by the public insurance. The earliest dermatologist that I can book using the most widely accepted public insurance is after 4 months.
+    * I had a very severe viral infection a few months ago which I have still not been completely cured of. In the process of getting checked up, one of the ENT specialists that I had been to gave me an appointment after 5 weeks to get my eyes and ears checked for dizziness diagnosys. It is astonishing to see such long diagnosys appointment for something that I am troubled with right now. And this is not a one-off case.
 5. *Public Offices:*
     * Getting an appointment for simple things like driver's license related procedures or registering a new address takes months. And more often than not, there are no appointments available in the cities. Not a big problem if one lives in a small town.
 6. *Paper Work:*
