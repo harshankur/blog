@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.harshankur.com/categories/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/health/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/categories/health-care/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/infection/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/categories/myself/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/posts/postviralillness/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/posts/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/postviralsyndrome/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.harshankur.com/tags/viral/</loc>
+    <lastmod>2023-11-26T21:09:28+01:00</lastmod>
+  </url><url>
     <loc>https://blog.harshankur.com/tags/berlin/</loc>
     <lastmod>2023-11-26T21:06:42+01:00</lastmod>
   </url><url>
@@ -9,9 +42,6 @@
     <lastmod>2023-11-26T21:06:42+01:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/categories/bureaucracy/</loc>
-    <lastmod>2023-11-26T21:06:42+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/categories/</loc>
     <lastmod>2023-11-26T21:06:42+01:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/posts/germaninefficiencies/</loc>
@@ -23,16 +53,7 @@
     <loc>https://blog.harshankur.com/categories/germany/</loc>
     <lastmod>2023-11-26T21:06:42+01:00</lastmod>
   </url><url>
-    <loc>https://blog.harshankur.com/</loc>
-    <lastmod>2023-11-26T21:06:42+01:00</lastmod>
-  </url><url>
     <loc>https://blog.harshankur.com/tags/inefficiencies/</loc>
-    <lastmod>2023-11-26T21:06:42+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/posts/</loc>
-    <lastmod>2023-11-26T21:06:42+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/tags/</loc>
     <lastmod>2023-11-26T21:06:42+01:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/tags/automation/</loc>
@@ -61,9 +82,6 @@
   </url><url>
     <loc>https://blog.harshankur.com/categories/technology/</loc>
     <lastmod>2023-11-25T23:36:34+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.harshankur.com/categories/myself/</loc>
-    <lastmod>2023-10-17T22:03:14+02:00</lastmod>
   </url><url>
     <loc>https://blog.harshankur.com/tags/philosophy/</loc>
     <lastmod>2023-10-17T22:03:14+02:00</lastmod>
