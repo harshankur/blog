@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2023 21:09:28 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 22:12:52 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>https://blog.harshankur.com/categories/programming/</link>
+      <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://blog.harshankur.com/categories/technology/</link>
+      <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Health Care</title>
       <link>https://blog.harshankur.com/categories/health-care/</link>
@@ -58,29 +76,11 @@
     </item>
     
     <item>
-      <title>Technology</title>
-      <link>https://blog.harshankur.com/categories/technology/</link>
-      <pubDate>Sat, 25 Nov 2023 23:36:34 +0100</pubDate>
-      
-      <guid>https://blog.harshankur.com/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Philosophy</title>
       <link>https://blog.harshankur.com/categories/philosophy/</link>
       <pubDate>Tue, 17 Oct 2023 22:03:14 +0200</pubDate>
       
       <guid>https://blog.harshankur.com/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://blog.harshankur.com/categories/programming/</link>
-      <pubDate>Sat, 09 Sep 2023 12:02:07 +0200</pubDate>
-      
-      <guid>https://blog.harshankur.com/categories/programming/</guid>
       <description></description>
     </item>
     
