@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>offscreencanvas on Harsh&#39;s Blog</title>
+    <link>https://blog.harshankur.com/tags/offscreencanvas/</link>
+    <description>Recent content in offscreencanvas on Harsh&#39;s Blog</description>
+    <image>
+      <title>Harsh&#39;s Blog</title>
+      <url>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.harshankur.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 22:58:31 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/offscreencanvas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problems with rendering pdf.js in Web Worker</title>
+      <link>https://blog.harshankur.com/posts/problemswithrenderingpdfjsinwebworker/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/posts/problemswithrenderingpdfjsinwebworker/</guid>
+      <description>I was tinkering with pdf.js and pdf-lib. I was trying to see what open source free technologies can do. Then I thought of how efficient it would be to move the main computation of working with pdf-lib and pdf.js to a web worker.
+I did a small test.
+I created a small html file that places a select file input control on the UI and a div to hold images.</description>
+    </item>
+    
+  </channel>
+</rss>

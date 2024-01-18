@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 22:12:52 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 22:58:31 +0100</lastBuildDate><atom:link href="https://blog.harshankur.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code</title>
+      <link>https://blog.harshankur.com/tags/code/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://blog.harshankur.com/tags/development/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>offscreencanvas</title>
+      <link>https://blog.harshankur.com/tags/offscreencanvas/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/offscreencanvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://blog.harshankur.com/tags/programming/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rendering</title>
+      <link>https://blog.harshankur.com/tags/rendering/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webworker</title>
+      <link>https://blog.harshankur.com/tags/webworker/</link>
+      <pubDate>Thu, 18 Jan 2024 22:58:31 +0100</pubDate>
+      
+      <guid>https://blog.harshankur.com/tags/webworker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>chatgpt</title>
       <link>https://blog.harshankur.com/tags/chatgpt/</link>
@@ -22,38 +76,11 @@
     </item>
     
     <item>
-      <title>code</title>
-      <link>https://blog.harshankur.com/tags/code/</link>
-      <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://blog.harshankur.com/tags/development/</link>
-      <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>opensource</title>
       <link>https://blog.harshankur.com/tags/opensource/</link>
       <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
       
       <guid>https://blog.harshankur.com/tags/opensource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://blog.harshankur.com/tags/programming/</link>
-      <pubDate>Sun, 07 Jan 2024 22:12:52 +0100</pubDate>
-      
-      <guid>https://blog.harshankur.com/tags/programming/</guid>
       <description></description>
     </item>
     
